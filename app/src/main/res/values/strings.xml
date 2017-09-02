@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProvaJoaoVictor</string>
+    <string name="joao_alcool">Álcool</string>
+    <string name="joao_gasolina">Gasolina</string>
+    <string name="joao_btnCalcular">Calcular</string>
+    <string name="joao_result">Reultado</string>
+    <string name="joao_resultado">Resultado</string>
+</resources>
